@@ -11,4 +11,16 @@
   + [1]https://docs.opencv.org/3.4.3/dc/dbb/tutorial_py_calibration.html
   + [2]https://www.jianshu.com/p/23928a80fa0f
 * problem_8、problem_8_amended:
-  + [1]https://blog.csdn.net/qq_40369926/article/details/89251296#2.homography.py
+  + https://blog.csdn.net/qq_40369926/article/details/89251296#2.homography.py
+* problem_12、problem_14：
+  + https://www.jianshu.com/p/be990ccb9296
+* problem_17：
+  + https://blog.csdn.net/weixin_43459369/article/details/93623585
+* problem_20：
+  + https://github.com/jasonlinuxzhang/sgbm_cuda
+* problem_21：
+  + https://github.com/hjimce/Depth-Map-Prediction
+* problem_22：
+  + https://github.com/amrit110/stereo_matching
+* problem_23：
+  + https://github.com/meteorshowers/StereoNet-ActiveStereoNet
